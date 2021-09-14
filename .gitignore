@@ -1,0 +1,5 @@
+*.spec
+PythonAppPyInstaller/__pycache__
+PythonAppPyInstaller/build
+PythonAppPyInstaller/dist
+PythonAppPyInstaller/records
